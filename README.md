@@ -21,3 +21,9 @@ npn install
 ```
 npm start
 ```
+
+### Compile
+
+```
+npm run build
+```
